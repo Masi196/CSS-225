@@ -1,3 +1,8 @@
+# name: masihullah wardak
+# date 4/28/2025
+# description: this code calculate the score of three exams and based on the result it prints the grade they achieved.
+
+
 # Calculating Grades (ok, let me think about this one)
 
 # Write a program that will average 3 numeric exam grades, return an average test score, a corresponding letter grade, and a message stating whether the student is passing.
