@@ -1,3 +1,7 @@
+# name: masihullah wardak
+# date 4/28/2025
+# description: in this code we have people's names and death time. and by running the code it shows their name and the year they died.
+
 # Create a collection of these authors and
 # the year they kicked the bucket;
 # print the collection in the following format:
