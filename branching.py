@@ -5,7 +5,9 @@
 # and greet our strange visitor with a different message
 # if he is from the distant past (before 1900),
 # the present era (1900-2020) or from the far future (beyond 2020).
-
+# name: masihullah wardak
+# date 4/28/2025
+# description: this code asks the user to input a year of origin, and based on the year entered the code responds the user with a masssage.
 year = int(input("Greetings! What is your year of origin?"))
 
 if year <= 1900:
