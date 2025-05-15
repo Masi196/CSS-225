@@ -1,3 +1,6 @@
+#name: masihullah wardak
+#date:5/13/2025
+#description:Use random.choice to select a day of the week from a list and print that day.
 
 
 
